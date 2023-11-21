@@ -1,0 +1,51 @@
+ul {
+    color:blueviolet;
+  }
+
+  ol{
+    color:blueviolet;
+  }
+  h3{
+    color:yellowgreen;
+  }
+
+  p{
+    color:blueviolet;
+  }
+
+  p{
+    font-weight:bolder;
+  }
+
+ul{
+  font-weight:bolder;
+}
+
+ol{
+  font-weight:bolder;
+}
+
+html{
+  background-color:blanchedalmond;
+  color:black;
+}
+
+p{
+  font-family: 'caveat',cursive;
+}
+
+ul{
+  font-family:'caveat',cursive;
+}
+ol{
+  font-family:'caveat',cursive;
+}
+h1{
+  font-weight:bold;
+}
+hr{
+  color:darkblue;
+}
+hr{
+  font-weight:bold;
+}
